@@ -7,6 +7,7 @@
 화면의 의도를 집요하게 묻고, 컴포넌트 단위로 정교하게 쪼개 **동작하는 화면**으로 증명합니다.
 
 <a href="https://wwsm1230.notion.site"><img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Portfolio" /></a>
+<a href="https://github.com/Type-Nu11"><img src="https://img.shields.io/badge/Team-Type--Nu11-FF1956?style=flat-square&logo=github&logoColor=white" alt="Type-Nu11" /></a>
 
 </div>
 
@@ -53,54 +54,12 @@
 
 `2026.03 ~ 진행중` · 디자인 팀장(전 화면 설계 · 디자인 시스템) + 클라이언트 개발 · 총 7명(클라이언트 3 · 서버 3 · 네트워크 1)
 
-<table>
-<tr>
-<td width="25%" valign="top">
-
-**진입점 재설계**
-
-버튼이 지도 위에 흩어진 구조를 하단 탭 바로 모으고, 지도는 첫 탭에 유지
-
-`최상위 진입점 4개 → 1개`
-
-</td>
-<td width="25%" valign="top">
-
-**중복 반영 방지**
-
-연타·재시도에도 요청을 직렬 처리하고, 재시도 전 서버 상태를 다시 확인
-
-`좋아요·댓글·쿠폰 발급 1회 반영`
-
-</td>
-<td width="25%" valign="top">
-
-**집계 누락 · 중복 호출 차단**
-
-`postId:placeId` 가드로 view 경유를 보장하고 장소 상세 캐시 재사용
-
-`더블탭 → 정확히 1회`
-
-</td>
-<td width="25%" valign="top">
-
-**출처 분리 모델링**
-
-등록 장소(canonical ID)와 외부 장소(공급자 ID)의 선택 처리를 분기
-
-`빈 화면 · 엉뚱한 상세 제거`
-
-</td>
-</tr>
-</table>
-
 ## Team projects
 
 Public collaboration repositories, ordered by my commit count.
 
 1. [Pingdom App](https://github.com/Type-Nu11/pingdom-app) — React Native 사용자용 모바일 앱
-2. [Pingdom Admin](https://github.com/Type-Nu11/pingdom-admin) — 서비스 운영 관리자 웹
-3. [Pingdom Landing](https://github.com/Type-Nu11/pingdom-landing) — 서비스 소개 공식 랜딩페이지
+2. [Pingdom Landing](https://github.com/Type-Nu11/pingdom-landing) — 서비스 소개 공식 랜딩페이지
 
 ## Other projects
 
