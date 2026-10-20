@@ -7,7 +7,6 @@
 화면의 의도를 집요하게 묻고, 컴포넌트 단위로 정교하게 쪼개 **동작하는 화면**으로 증명합니다.
 
 <a href="https://wwsm1230.notion.site"><img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Portfolio" /></a>
-<a href="https://github.com/Type-Nu11"><img src="https://img.shields.io/badge/Team-Type--Nu11-FF1956?style=flat-square&logo=github&logoColor=white" alt="Type-Nu11" /></a>
 
 </div>
 
@@ -113,16 +112,3 @@ Public collaboration repositories, ordered by my commit count.
 - 🥇 2025.07 · 교내 해커톤 금상 (1위)
 - 🥉 2025.12 · 2025학년도 나르샤 프로젝트 3위
 - 🗳️ 2026.06 ~ 2027.06 · 제 10기 전교학생회 당선
-
-<br />
-
-<div align="center">
-
-<a href="https://github.com/wusm1230">
-  <img src="https://github-readme-stats.vercel.app/api?username=wusm1230&show_icons=true&hide_border=true&count_private=true&title_color=FF1956&icon_color=FF1956" alt="GitHub stats" height="165" />
-</a>
-<a href="https://github.com/wusm1230">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wusm1230&layout=compact&hide_border=true&title_color=FF1956" alt="Top languages" height="165" />
-</a>
-
-</div>
